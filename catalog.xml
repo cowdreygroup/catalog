@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <catalog>
-   <book id="bk101">
-      <title>Issue 1: January 2019</title>
-	 <published>January 2019</published>
-      <description>An in-depth look at creating applications 
-      with XML.</description>
+   <book>
+	<id>bk101</id>	   
+      	<title>Issue 1: January 2019</title>
+	<published>January 2019</published>
+     	<description>An in-depth look at creating applications with XML.</description>
 	<image>images/issue1.png</image>
 	<url>https://docs.wixstatic.com/ugd/2b675e_4e6d53119c0c4697916c6c23ffe9c555.pdf</url>
    </book>
-   <book id="bk102">
-      <title>Issue 2: February 2019</title>
-	 <published>February 2019</published>
-      <description>An in-depth look at creating applications 
-      with XML.</description>
+   <book>
+	<id>bk102</id>	   
+      	<title>Issue 2: February 2019</title>
+	<published>February 2019</published>
+     	<description>An in-depth look at creating applications with XML.</description>
 	<image>images/issue1.png</image>
 	<url>https://docs.wixstatic.com/ugd/2b675e_4e6d53119c0c4697916c6c23ffe9c555.pdf</url>
    </book>
